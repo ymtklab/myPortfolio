@@ -1,15 +1,5 @@
-#imgarea {
-  text-align: center;
-}
-
-header {
-  background-color: skyblue;
-}
-
-#main {
-  background-color: springgreen;
-}
-
 footer {
-  background-color: yellow;
+  background: #fffac2;
+  text-align: center;
+  padding: 1rem;
 }
