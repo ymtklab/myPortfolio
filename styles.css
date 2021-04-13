@@ -3,3 +3,9 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+h1 {
+  text-align: center;
+  background: #7fd9d2;
+  padding: 10px;
+}
